@@ -6,3 +6,4 @@
 
 C was originally developed by Dennis Ritchie between 1969 and 1973.
 Java was originally developed by James Gosling at Sun Microsystems.
+C++ was developed by Danish computer scientist Bjarne Stroustrup at Bell Labs since 1979 as an extension of the C language.
